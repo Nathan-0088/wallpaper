@@ -39,7 +39,7 @@ jobs:
 
           # Monta o conteúdo do README
           content = "# Meus Wallpapers 🖥️\n\n"
-          content += "Coleção automatizada de wallpapers.\n\n"
+          content += "Todos os meus wallpapers:\n\n"
           content += f"Total de wallpapers: **{len(images)}**\n\n"
           content += "---\n\n"
           content += "| Preview | Nome | Download |\n"
