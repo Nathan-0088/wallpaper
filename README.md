@@ -1,8 +1,8 @@
 # Meus Wallpapers 🖥️
 
-Coleção automatizada de wallpapers.
+Todos os meus wallpapers:
 
-Total de wallpapers: **24**
+Total de wallpapers: **28**
 
 ---
 
@@ -25,10 +25,14 @@ Total de wallpapers: **24**
 | <img src='imgs/lobo.jpg' width='150'> | `lobo.jpg` | [Baixar](imgs/lobo.jpg) |
 | <img src='imgs/lua.jpg' width='150'> | `lua.jpg` | [Baixar](imgs/lua.jpg) |
 | <img src='imgs/mike.jpg' width='150'> | `mike.jpg` | [Baixar](imgs/mike.jpg) |
+| <img src='imgs/night_city.jpg' width='150'> | `night_city.jpg` | [Baixar](imgs/night_city.jpg) |
 | <img src='imgs/parentePerdido.jpg' width='150'> | `parentePerdido.jpg` | [Baixar](imgs/parentePerdido.jpg) |
 | <img src='imgs/parisPixelada.jpg' width='150'> | `parisPixelada.jpg` | [Baixar](imgs/parisPixelada.jpg) |
 | <img src='imgs/pixelada.jpg' width='150'> | `pixelada.jpg` | [Baixar](imgs/pixelada.jpg) |
+| <img src='imgs/street1.jpg' width='150'> | `street1.jpg` | [Baixar](imgs/street1.jpg) |
+| <img src='imgs/street2.gif' width='150'> | `street2.gif` | [Baixar](imgs/street2.gif) |
 | <img src='imgs/sword.jpg' width='150'> | `sword.jpg` | [Baixar](imgs/sword.jpg) |
 | <img src='imgs/train-sideview.png' width='150'> | `train-sideview.png` | [Baixar](imgs/train-sideview.png) |
 | <img src='imgs/wallpaper.jpg' width='150'> | `wallpaper.jpg` | [Baixar](imgs/wallpaper.jpg) |
 | <img src='imgs/wallpaperflare.com_wallpaper.jpg' width='150'> | `wallpaperflare.com_wallpaper.jpg` | [Baixar](imgs/wallpaperflare.com_wallpaper.jpg) |
+| <img src='imgs/watchtower-mountains-and-forests.jpg' width='150'> | `watchtower-mountains-and-forests.jpg` | [Baixar](imgs/watchtower-mountains-and-forests.jpg) |
