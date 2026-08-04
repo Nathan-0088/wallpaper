@@ -1,0 +1,64 @@
+name: Atualizar Wallpaper README
+
+on:
+  push:
+    paths:
+      - 'imgs/**' # Só roda se você mexer na pasta de imagens
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Baixar código do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Rodar script gerador
+        run: |
+          python - << 'EOF'
+          import os
+
+          # Pasta onde estão as imagens
+          image_dir = 'imgs'
+          readme_path = 'README.md'
+
+          # Extensões válidas
+          valid_extensions = ('.png', '.jpg', '.jpeg', '.webp', '.gif')
+
+          if os.path.exists(image_dir):
+              # Pega todos os arquivos de imagem e ordena
+              images = sorted([f for f in os.listdir(image_dir) if f.lower().endswith(valid_extensions)])
+          else:
+              images = []
+
+          # Monta o conteúdo do README
+          content = "# Meus Wallpapers 🖥️\n\n"
+          content += "Todos os meus wallpapers:\n\n"
+          content += f"Total de wallpapers: **{len(images)}**\n\n"
+          content += "---\n\n"
+          content += "| Preview | Nome | Download |\n"
+          content += "| :---: | :--- | :---: |\n"
+
+          for img in images:
+              # URL raw para exibir a imagem e link para download direto
+              img_url = f"imgs/{img}"
+              content += f"| <img src='{img_url}' width='150'> | `{img}` | [Baixar]({img_url}) |\n"
+
+          # Salva o README.md
+          with open(readme_path, 'w', encoding='utf-8') as f:
+              f.write(content)
+
+          print("README atualizado com sucesso!")
+          EOF
+
+      - name: Enviar alterações para o GitHub
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-atualização do README com novos wallpapers 🖼️"
+          file_pattern: README.md
