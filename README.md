@@ -2,7 +2,7 @@
 
 Todos os meus wallpapers:
 
-Total de wallpapers: **77**
+Total de wallpapers: **89**
 
 ---
 
@@ -21,6 +21,9 @@ Total de wallpapers: **77**
 | <img src='imgs/a_group_of_men_with_different_hair_styles.jpeg' width='150'> | `a_group_of_men_with_different_hair_styles.jpeg` | [Baixar](imgs/a_group_of_men_with_different_hair_styles.jpeg) |
 | <img src='imgs/a_train_crossing_with_a_train_track_and_a_body_of_water.png' width='150'> | `a_train_crossing_with_a_train_track_and_a_body_of_water.png` | [Baixar](imgs/a_train_crossing_with_a_train_track_and_a_body_of_water.png) |
 | <img src='imgs/aamis.jpg' width='150'> | `aamis.jpg` | [Baixar](imgs/aamis.jpg) |
+| <img src='imgs/alena-aenami-far-from-tomorrow.jpg' width='150'> | `alena-aenami-far-from-tomorrow.jpg` | [Baixar](imgs/alena-aenami-far-from-tomorrow.jpg) |
+| <img src='imgs/alena-aenami-in-search-of-peace.png' width='150'> | `alena-aenami-in-search-of-peace.png` | [Baixar](imgs/alena-aenami-in-search-of-peace.png) |
+| <img src='imgs/andrew-maleski-ghostly-gate.jpg' width='150'> | `andrew-maleski-ghostly-gate.jpg` | [Baixar](imgs/andrew-maleski-ghostly-gate.jpg) |
 | <img src='imgs/astronaut-nord.png' width='150'> | `astronaut-nord.png` | [Baixar](imgs/astronaut-nord.png) |
 | <img src='imgs/astronaut-rocket.jpg' width='150'> | `astronaut-rocket.jpg` | [Baixar](imgs/astronaut-rocket.jpg) |
 | <img src='imgs/b-376.jpg' width='150'> | `b-376.jpg` | [Baixar](imgs/b-376.jpg) |
@@ -31,6 +34,9 @@ Total de wallpapers: **77**
 | <img src='imgs/canvas.png' width='150'> | `canvas.png` | [Baixar](imgs/canvas.png) |
 | <img src='imgs/car-design.jpg' width='150'> | `car-design.jpg` | [Baixar](imgs/car-design.jpg) |
 | <img src='imgs/cat.jpg' width='150'> | `cat.jpg` | [Baixar](imgs/cat.jpg) |
+| <img src='imgs/chilledcow-kupla-kingdom-in-blue.jpg' width='150'> | `chilledcow-kupla-kingdom-in-blue.jpg` | [Baixar](imgs/chilledcow-kupla-kingdom-in-blue.jpg) |
+| <img src='imgs/chrisostrowski-the-esteemed-palace.jpg' width='150'> | `chrisostrowski-the-esteemed-palace.jpg` | [Baixar](imgs/chrisostrowski-the-esteemed-palace.jpg) |
+| <img src='imgs/ciorano-the-sacred-creature.jpg' width='150'> | `ciorano-the-sacred-creature.jpg` | [Baixar](imgs/ciorano-the-sacred-creature.jpg) |
 | <img src='imgs/coding.jpg' width='150'> | `coding.jpg` | [Baixar](imgs/coding.jpg) |
 | <img src='imgs/coffee.jpg' width='150'> | `coffee.jpg` | [Baixar](imgs/coffee.jpg) |
 | <img src='imgs/cowboy.png' width='150'> | `cowboy.png` | [Baixar](imgs/cowboy.png) |
@@ -41,6 +47,7 @@ Total de wallpapers: **77**
 | <img src='imgs/earth.png' width='150'> | `earth.png` | [Baixar](imgs/earth.png) |
 | <img src='imgs/falling.png' width='150'> | `falling.png` | [Baixar](imgs/falling.png) |
 | <img src='imgs/gas-station.jpg' width='150'> | `gas-station.jpg` | [Baixar](imgs/gas-station.jpg) |
+| <img src='imgs/gavryl-cozy-night.jpg' width='150'> | `gavryl-cozy-night.jpg` | [Baixar](imgs/gavryl-cozy-night.jpg) |
 | <img src='imgs/girl-alone-stand.png' width='150'> | `girl-alone-stand.png` | [Baixar](imgs/girl-alone-stand.png) |
 | <img src='imgs/gojo.jpg' width='150'> | `gojo.jpg` | [Baixar](imgs/gojo.jpg) |
 | <img src='imgs/golden-mountains.png' width='150'> | `golden-mountains.png` | [Baixar](imgs/golden-mountains.png) |
@@ -48,11 +55,14 @@ Total de wallpapers: **77**
 | <img src='imgs/got_red.jpg' width='150'> | `got_red.jpg` | [Baixar](imgs/got_red.jpg) |
 | <img src='imgs/gruvbox-dark-astronaut-comic.jpg' width='150'> | `gruvbox-dark-astronaut-comic.jpg` | [Baixar](imgs/gruvbox-dark-astronaut-comic.jpg) |
 | <img src='imgs/gruvbox_witcher.png' width='150'> | `gruvbox_witcher.png` | [Baixar](imgs/gruvbox_witcher.png) |
+| <img src='imgs/gustavo-arteaga-revenge.jpg' width='150'> | `gustavo-arteaga-revenge.jpg` | [Baixar](imgs/gustavo-arteaga-revenge.jpg) |
 | <img src='imgs/guts.png' width='150'> | `guts.png` | [Baixar](imgs/guts.png) |
 | <img src='imgs/hanged_man_tree.jpg' width='150'> | `hanged_man_tree.jpg` | [Baixar](imgs/hanged_man_tree.jpg) |
 | <img src='imgs/hello-worlds.png' width='150'> | `hello-worlds.png` | [Baixar](imgs/hello-worlds.png) |
+| <img src='imgs/josegoncalo-beasts.jpg' width='150'> | `josegoncalo-beasts.jpg` | [Baixar](imgs/josegoncalo-beasts.jpg) |
 | <img src='imgs/knight.png' width='150'> | `knight.png` | [Baixar](imgs/knight.png) |
 | <img src='imgs/lobo.jpg' width='150'> | `lobo.jpg` | [Baixar](imgs/lobo.jpg) |
+| <img src='imgs/lofi-coffee.jpg' width='150'> | `lofi-coffee.jpg` | [Baixar](imgs/lofi-coffee.jpg) |
 | <img src='imgs/lua.jpg' width='150'> | `lua.jpg` | [Baixar](imgs/lua.jpg) |
 | <img src='imgs/manga-samurai.png' width='150'> | `manga-samurai.png` | [Baixar](imgs/manga-samurai.png) |
 | <img src='imgs/manga.png' width='150'> | `manga.png` | [Baixar](imgs/manga.png) |
@@ -73,6 +83,7 @@ Total de wallpapers: **77**
 | <img src='imgs/street1.jpg' width='150'> | `street1.jpg` | [Baixar](imgs/street1.jpg) |
 | <img src='imgs/street2.gif' width='150'> | `street2.gif` | [Baixar](imgs/street2.gif) |
 | <img src='imgs/sword.jpg' width='150'> | `sword.jpg` | [Baixar](imgs/sword.jpg) |
+| <img src='imgs/tacosauceninja-remembering.jpg' width='150'> | `tacosauceninja-remembering.jpg` | [Baixar](imgs/tacosauceninja-remembering.jpg) |
 | <img src='imgs/train-sideview.png' width='150'> | `train-sideview.png` | [Baixar](imgs/train-sideview.png) |
 | <img src='imgs/two-astronauts.png' width='150'> | `two-astronauts.png` | [Baixar](imgs/two-astronauts.png) |
 | <img src='imgs/van.png' width='150'> | `van.png` | [Baixar](imgs/van.png) |
@@ -84,4 +95,5 @@ Total de wallpapers: **77**
 | <img src='imgs/wano_vector.png' width='150'> | `wano_vector.png` | [Baixar](imgs/wano_vector.png) |
 | <img src='imgs/watchtower-mountains-and-forests.jpg' width='150'> | `watchtower-mountains-and-forests.jpg` | [Baixar](imgs/watchtower-mountains-and-forests.jpg) |
 | <img src='imgs/wave_black.png' width='150'> | `wave_black.png` | [Baixar](imgs/wave_black.png) |
+| <img src='imgs/wheazzy-blue-mountains.jpg' width='150'> | `wheazzy-blue-mountains.jpg` | [Baixar](imgs/wheazzy-blue-mountains.jpg) |
 | <img src='imgs/yellow-robot.png' width='150'> | `yellow-robot.png` | [Baixar](imgs/yellow-robot.png) |
